@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  HavocRacers.cpp
+HavocRacers.cpp(1): warning C4627: '#include <SFML\Graphics.hpp>': skipped when looking for precompiled header use
+          Add directive to 'stdafx.h' or rebuild precompiled header
+e:\havocracers\havocracers\cars.h(36): warning C4305: '=' : truncation from 'double' to 'float'
+e:\havocracers\havocracers\cars.h(42): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\havocracers\havocracers\cars.h(52): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+e:\havocracers\havocracers\cars.h(55): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+e:\havocracers\havocracers\cars.h(56): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+e:\havocracers\havocracers\cars.h(63): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\havocracers\havocracers\cars.h(64): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+HavocRacers.cpp(28): warning C4305: 'argument' : truncation from 'double' to 'float'
+HavocRacers.cpp(68): warning C4305: 'initializing' : truncation from 'double' to 'float'
+HavocRacers.cpp(69): warning C4305: 'initializing' : truncation from 'double' to 'float'
+HavocRacers.cpp(327): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+HavocRacers.cpp(328): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+HavocRacers.cpp(330): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+HavocRacers.cpp(331): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+HavocRacers.cpp(338): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+HavocRacers.cpp(340): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Finished generating code
+  HavocRacers.vcxproj -> E:\HavocRacers\Release\HavocRacers.exe

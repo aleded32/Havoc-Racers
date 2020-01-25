@@ -1,0 +1,18 @@
+﻿  HavocRacers.cpp
+e:\havocracers\havocracers\cars.h(36): warning C4305: '=' : truncation from 'double' to 'float'
+e:\havocracers\havocracers\cars.h(42): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\havocracers\havocracers\cars.h(52): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+e:\havocracers\havocracers\cars.h(55): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+e:\havocracers\havocracers\cars.h(56): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+e:\havocracers\havocracers\cars.h(63): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\havocracers\havocracers\cars.h(64): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\havocracers\havocracers\havocracers.cpp(28): warning C4305: 'argument' : truncation from 'double' to 'float'
+e:\havocracers\havocracers\havocracers.cpp(68): warning C4305: 'initializing' : truncation from 'double' to 'float'
+e:\havocracers\havocracers\havocracers.cpp(69): warning C4305: 'initializing' : truncation from 'double' to 'float'
+e:\havocracers\havocracers\havocracers.cpp(327): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\havocracers\havocracers\havocracers.cpp(328): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+e:\havocracers\havocracers\havocracers.cpp(330): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\havocracers\havocracers\havocracers.cpp(331): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+e:\havocracers\havocracers\havocracers.cpp(338): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\havocracers\havocracers\havocracers.cpp(340): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+  HavocRacers.vcxproj -> E:\HavocRacers\Debug\HavocRacers.exe
